@@ -1,0 +1,24 @@
+HW_1:   homework_1:                     trigger led with mic interrupt
+HW_2:   HOMEWORK2:                      play a song with delay and finger snap
+HW_2:   HOMEWORK2_b:                    play a song without delay andwith finger snap
+HW_3:   Homework03a:                    send team names trough uart
+HW_3:   LCD_interrupt:                  show teams names on lcd with interrupt
+HW_4:   Lab 5 Potentiometer:            read data from potentiometer and transmit them through UART
+HW_4:   Lab04_Project2cBis:             read data from potentiometer and transmit them through LCD with drawbar
+HW_5:   Lab 6 3-Sensors-DMA:            acquisition of three different data channels (Potentiometer, internal temperature sensor and internal Vref) and transmit them through UART ELEONARA
+HW_5:   HOMEWORK05_3a:                  acquisition of three different data channels (Potentiometer, internal temperature sensor and internal Vref) and transmit them through UART BRAVIN
+HW_5:   Lab 6 Photo-DMA:                LDR value is first read and then converted into a lux value 
+HW_6:   Lab07_Project1b_I2CTempCplt:    ead the LM75B temperature sensor values each second through I2C communication and show them in terminal through UART communication.
+HW_6:   Lab 7 I2C-IMU:                  read the LIS2DE accelerometer values each second through I2C communication by using a timer interrupt through the elapsed period callback, then send the values to the terminal by means of UART communication with DMA
+HW_6:   Lab 7 I2C-IMU-DMA:              tart from the previous readings of the accelerometer and we use the I2C DMA and interrupts to perform a multiple reading of the accelerometer and obtain the right values
+HW_7:   Lab 8 LED-Matrix:               two or more letters alternating and being showed on the LED matrix through SPI communication, BRAVIN VERSION
+HW_7:   LAB08_project1b:                two or more letters alternating and being showed on the LED matrix through SPI communication, ELEONARA VERSION
+HW_7:   LAB08_project1a:                PI protocol to communicate with the LED matrix and send one single letter which is then shown by turning the LED on the correct point of the matrix.
+HW_8:   Lab 9 Encoder-Interrupt:        readout of the encoder and print the rotation speed in rpms on the terminal through the UART in DMA mode.
+HW_09:  Lab 90 Keyboard-tim:            keyboard BRAVIN
+HW_09:  LAB11_project1a:                keyboard ELEONORA
+HW_10:  Lab B IR-RX:                    receive IR from keyboard
+HW_10:  Lab B IR-TX:                    transmit IR from keyboard
+HW_10:  Lab B IR-TX-RX:                 transmit and receive IR from keyboard
+
+
